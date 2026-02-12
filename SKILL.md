@@ -1,11 +1,9 @@
 ---
 name: worry-management-protocol
-description: Manage anxiety and worry in high-pressure situations using Dale Carnegie's
-  proven techniques from "How to Stop Worrying and Start Living"—including worst-case
-  analysis, day-tight compartments, and ...
+description: Manage anxiety and worry in high-pressure situations using Dale Carnegie's proven techniques from "How to Stop Worrying and Start Living"—including worst-case analysis, day-tight compartments, and ...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - transformation
