@@ -3,8 +3,8 @@ name: worry-management-protocol
 description: Manage anxiety and worry in high-pressure situations using Dale Carnegie's proven techniques from "How to Stop Worrying and Start Living"—including worst-case analysis, day-tight compartments, and ...
 license: MIT
 metadata:
+  version: 1.0.5336
   author: sethmblack
-  version: 1.0.5335
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
